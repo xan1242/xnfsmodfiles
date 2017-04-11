@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XNFSModFiles", "XNFSModFiles\XNFSModFiles.vcxproj", "{398B1045-5783-4604-A40D-44688D2E0901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		Release-MW|x64 = Release-MW|x64
+		Release-MW|x86 = Release-MW|x86
+		Release-PS|x64 = Release-PS|x64
+		Release-PS|x86 = Release-PS|x86
+		Release-UC|x64 = Release-UC|x64
+		Release-UC|x86 = Release-UC|x86
+		Release-UG|x64 = Release-UG|x64
+		Release-UG|x86 = Release-UG|x86
+		Release-UG2|x64 = Release-UG2|x64
+		Release-UG2|x86 = Release-UG2|x86
+		Release-UGArcade|x64 = Release-UGArcade|x64
+		Release-UGArcade|x86 = Release-UGArcade|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{398B1045-5783-4604-A40D-44688D2E0901}.Debug|x64.ActiveCfg = Debug|x64
+		{398B1045-5783-4604-A40D-44688D2E0901}.Debug|x64.Build.0 = Debug|x64
+		{398B1045-5783-4604-A40D-44688D2E0901}.Debug|x86.ActiveCfg = Debug|Win32
+		{398B1045-5783-4604-A40D-44688D2E0901}.Debug|x86.Build.0 = Debug|Win32
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release|x64.ActiveCfg = Release|x64
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release|x64.Build.0 = Release|x64
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release|x86.ActiveCfg = Release|Win32
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release|x86.Build.0 = Release|Win32
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release-MW|x64.ActiveCfg = Release-MW|x64
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release-MW|x64.Build.0 = Release-MW|x64
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release-MW|x86.ActiveCfg = Release-MW|Win32
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release-MW|x86.Build.0 = Release-MW|Win32
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release-PS|x64.ActiveCfg = Release-PS|x64
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release-PS|x64.Build.0 = Release-PS|x64
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release-PS|x86.ActiveCfg = Release-PS|Win32
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release-PS|x86.Build.0 = Release-PS|Win32
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release-UC|x64.ActiveCfg = Release-UC|x64
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release-UC|x64.Build.0 = Release-UC|x64
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release-UC|x86.ActiveCfg = Release-UC|Win32
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release-UC|x86.Build.0 = Release-UC|Win32
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release-UG|x64.ActiveCfg = Release-UG|x64
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release-UG|x64.Build.0 = Release-UG|x64
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release-UG|x86.ActiveCfg = Release-UG|Win32
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release-UG|x86.Build.0 = Release-UG|Win32
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release-UG2|x64.ActiveCfg = Release-UG2|x64
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release-UG2|x64.Build.0 = Release-UG2|x64
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release-UG2|x86.ActiveCfg = Release-UG2|Win32
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release-UG2|x86.Build.0 = Release-UG2|Win32
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release-UGArcade|x64.ActiveCfg = Release-UGArcade|x64
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release-UGArcade|x64.Build.0 = Release-UGArcade|x64
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release-UGArcade|x86.ActiveCfg = Release-UGArcade|Win32
+		{398B1045-5783-4604-A40D-44688D2E0901}.Release-UGArcade|x86.Build.0 = Release-UGArcade|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
