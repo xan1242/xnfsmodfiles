@@ -24,4 +24,5 @@ The included solution is made from VS2015, however, you should be able to build 
 
 # Running
 To run this, you need ThirteenAG's ASI loader, which you can get from the widescreen packs here: https://thirteenag.github.io/wfp#nfs
+
 After installing the ASI loader (by putting dinput8.dll in game's root folder), simply copy the compiled .asi and the .ini into the scripts folder which is also located in the game's root directory.
