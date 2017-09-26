@@ -1,0 +1,3 @@
+0,1,MODS\FileToBeLoadedAtPreinit.bun
+1,1,MODS\FileToBeLoadedAtPostinit.bun
+1,6,MODS\FileToBeLoadedAtPostinitAsResourceType6.bun
