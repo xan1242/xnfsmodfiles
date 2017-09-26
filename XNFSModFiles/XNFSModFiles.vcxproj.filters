@@ -41,5 +41,8 @@
     <ClInclude Include="UGArcade_addresses.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="XNFSPrintTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
