@@ -37,9 +37,6 @@
 #define HAS_STAGE2
 #endif
 
-unsigned int CreateResourceFileFunction = CREATERESOURCEADDRESS;
-unsigned int BeginLoadingFunction = BEGINLOADINGADDRESS;
-
 #ifdef GAME_UGARCADE
 bool bLoadAmusementChunks = 0;
 #endif
@@ -48,11 +45,7 @@ bool bLoadAmusementChunks = 0;
 unsigned int UndergroundJumpPoint = CAVEEXIT;
 #endif
 
-unsigned int NumberOfFiles = 0;
-char TempStringBuffer[15];
-char* PathBuffer;
-
-void*(*CreateResourceFile)(const char* FileName, int ResourceFileType, int something1, int something2, int something3) = (void*(*)(const char*, int, int, int, int)) CREATERESOURCEADDRESS;
+void*(*CreateResourceFile)(const char* FileName, int ResourceFileType, int something1, int something2, int something3) = (void*(*)(const char*, int, int, int, int))CREATERESOURCEADDRESS;
 unsigned int(__thiscall *BeginLoading)(void* dis, int a1, int a2) = (unsigned int(__thiscall *)(void* dis, int a1, int a2))BEGINLOADINGADDRESS;
 
 #ifdef GAME_UC
